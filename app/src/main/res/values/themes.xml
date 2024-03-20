@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PocketGuard" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="colorPrimaryVariant">#B3E5FC</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#9E9E9E</item>
+        <item name="colorOnSecondary">#121417</item>
+        <item name="colorTertiary">#61758A</item>
+        <item name="colorOutline">#BDBDBD</item>
+        <item name="colorBackgroundFloating">#F0F2F5</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+    <style name="Theme.PocketGuard" parent="Base.Theme.PocketGuard" />
+</resources>

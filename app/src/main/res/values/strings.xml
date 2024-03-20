@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PocketGuard</string>
+
+    <string name="budget_rem_number">$628</string>
+
+    <string name="budget_rem">You have $628 left in your budget this month</string>
+
+
+</resources>
